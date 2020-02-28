@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">dhanie Sub3 Movie App</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">Tv Show</string>
+    <string name="tile_bar">Movie Application Submission 3</string>
+
+    <string name="lbl_movie">Movies</string>
+    <string name="lbl_tv_show">Tv Shows</string>
+
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_overview">Overview</string>
+    <string name="movie_rating">Rating</string>
+    <string name="movie_description">Description</string>
+
+    <string name="tv_title">Tv Show Title</string>
+    <string name="tv_overview">Overview</string>
+    <string name="tv_rating">Rating</string>
+    <string name="tv_description">Description</string>
+
+    <string name="default_rate">90</string>
+    <string name="more_info">More Info</string>
+    <string name="user_score">User\nScore</string>
+
+    <string name="lbl_release_date">Release Date</string>
+    <string name="lbl_overview">Overview</string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_image">movie image</string>
+    <string name="language">en-US</string>
+</resources>

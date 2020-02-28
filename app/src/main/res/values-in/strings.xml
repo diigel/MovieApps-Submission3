@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">dhanie Sub3 Film Applikasi</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Serial Tv</string>
+    <string name="tile_bar">Aplikasi Movie Submission 3</string>
+
+    <string name="lbl_movie">Film</string>
+    <string name="lbl_tv_show">Serial Tv</string>
+
+    <string name="movie_title">Judul Film</string>
+    <string name="movie_overview">Keterangan</string>
+    <string name="movie_rating">Nilai</string>
+    <string name="movie_description">Deskripsi</string>
+
+    <string name="tv_title">Judul Serial Tv</string>
+    <string name="tv_overview">Keterangan</string>
+    <string name="tv_rating">Nilai</string>
+    <string name="tv_description">Deskripsi</string>
+
+    <string name="default_rate">90</string>
+    <string name="more_info">Lihat Info</string>
+    <string name="user_score">Nilai\nPenonton</string>
+
+    <string name="lbl_release_date">Tanggal Rilis</string>
+    <string name="lbl_overview">Keterangan</string>
+
+    <string name="change_language_settings">Setting Ganti Bahasa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_image">movie image</string>
+    <string name="language">id-ID</string>
+</resources>
